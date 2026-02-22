@@ -1,7 +1,6 @@
   👋 Hi, I'm @flyworker
 
-  🚀 Founder of MegaNova AI — the enterprise AI platform serving 45K+ users
-  and 900M tokens/day. Building the infrastructure layer for AI agents: inference,
+  🚀 Founder of MegaNova AI — the enterprise AI platform. Building the infrastructure layer for AI agents: inference,
   orchestration, and deployment.
 
   💼 Previously founded SwanChain (AI DePIN, 1,000+ GPU providers). 12+ years in

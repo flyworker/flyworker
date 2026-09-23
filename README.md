@@ -9,6 +9,6 @@
   🔧 Currently shipping:
   - MegaNova Cloud — 100+ LLM API (OpenAI-compatible)
   - Character Studio — No-code AI agent builder
-  - Nova Zero — Enterprise AI orchestration platform (ANG Engine)
+  - Libra OS - The operating system for governed AI applications
 
   🎓 Techstars Mentor | Chainlink BUILD Program

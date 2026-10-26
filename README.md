@@ -18,15 +18,6 @@ Before MegaNova, I founded **SwanChain**, an AI DePIN network with **1,000+ GPU 
 | [go-computing-provider](https://github.com/swanchain/go-computing-provider) | The original Go computing provider for Swan Chain. |
 | [MegaNova MCP Server](https://github.com/MeganovaAI/meganova-mcp-server) | Exposes MegaNova agents and skills to Claude Desktop, Cursor, VS Code and any MCP client. |
 
-## Selected merged contributions
-
-These changes were accepted by projects outside my own repositories.
-
-| Project | Contribution |
-| --- | --- |
-| Filecoin community | [Project submission: Filswan by NBFS Canada](https://github.com/filecoin-project/community/pull/68) and [Flink, a Filecoin and Chainlink data provider](https://github.com/filecoin-project/community/pull/481). |
-| Slingshot (Data Preservation Programs) | [Orion Deep Learning Cloud](https://github.com/data-preservation-programs/slingshot/pull/169). |
-
 Techstars Mentor · Chainlink BUILD Program
 
 [LibraOS](https://libraos.com) · [MegaNova AI](https://meganova.ai) · [X](https://x.com/0charlescao)
